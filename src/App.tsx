@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import TechnologiesSection from './components/TechnologiesSection';
@@ -19,6 +20,7 @@ function App() {
       >
         <TechnologiesSection />
       </Suspense>
+      <Footer />
       <ToastContainer position="top-right" autoClose={2500} />
     </div>
   );
