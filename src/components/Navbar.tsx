@@ -32,7 +32,7 @@ const Navbar = () => {
             </a>
             <a
               href="#signup"
-              className="bg-[#D91B7E] rounded-full px-4 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90 sm:px-5"
+              className="bg-brand-gradient rounded-full px-4 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90 sm:px-5"
             >
               Sign Up
             </a>
