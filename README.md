@@ -6,6 +6,8 @@ technology cards, add the ones you want with a click, and manage your
 selections in a live sidebar — with duplicate protection, per-item removal,
 and a "Remove All" reset.
 
+**Live site:** [devstackselector.vercel.app](https://devstackselector.vercel.app/)
+
 ## Tech Stack
 
 - **React 19** (with the `use` hook + `Suspense` for data loading)
